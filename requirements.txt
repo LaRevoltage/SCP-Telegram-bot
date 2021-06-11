@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pyscp
+googlesearch-python
+random2
